@@ -150,7 +150,7 @@ In Cresça Brasil i´ve been part of Research and Development team and i was res
 Project Management Portal (internal), a chatbox using SignalR to use in telemarketing system and a private high available streaming video using AWS cloud services.
 And this last one i consider one of my biggest challenges.
 
->## Private high available streaming videos with AWS
+>## Private high availability streaming videos with AWS
 >
 >I work as tech-lead in this specific project. I´ve worked together with a Infrastructure specialist to create a solution to store online courses and make available for students. This is a generic player where we can add in any page from our customers and have seven layers of security.
 >The main goal in stream is cut in small buffer sizes and send to client making it practically impossible to downlaod the files.

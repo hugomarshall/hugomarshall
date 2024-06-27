@@ -8,7 +8,7 @@ Alfenas, Minas Gerais, Brazil
 
 Develop cohesive, modern, modular, multiplatform web systems and applications using bests practices and principles.
 
-## Skills
+## [Skills](https://github.com/hugomarshall/me/blob/main/project-skills)
 
 - **Programming Languages**: C#, JavaScript, jQuery, HTML5, CSS3, Delphi
 - **Frameworks/Libraries**: Blazor, Razor, Angular, AngularJS, Knockout, Bootstrap, Material, WPF
@@ -28,11 +28,11 @@ Develop cohesive, modern, modular, multiplatform web systems and applications us
 **Owner/Service Provider** (Feb 2014 - Present)
 
 - Full Stack Developer at Linx/Stone from Locus (1 year and 9 months)
-- Architect/Developer at Grão de Ouro Group (3 years and 6 months)
+- [Architect/Developer at Grão de Ouro Group (3 years and 6 months)](https://github.com/hugomarshall/me/blob/main/project-skills.md#1-architectdeveloper-at-gr%C3%A3o-de-ouro-group)
 - EasyComtec Senior Developer (USA) (11 months)
-- Iterative Senior Developer (1 year and 1 month)
+- [Iterative Senior Developer (1 year and 1 month)](https://github.com/hugomarshall/me/blob/main/project-skills.md#3-senior-fullstack-developer-at-iterative)
 
-### Cresça Brasil (Uol Educação), Alfenas-MG
+### [Cresça Brasil (Uol Educação)](https://github.com/hugomarshall/me/blob/main/project-skills.md#2-senior-web-developer-at-cres%C3%A7a-brasil-owned-by-uol-education)
 
 **Web Programmer III** (May 2013 - Feb 2014)
 

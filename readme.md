@@ -29,8 +29,8 @@ Develop cohesive, modern, modular, multiplatform web systems and applications us
 
 - Full Stack Developer at Linx/Stone from Locus (1 year and 9 months)
 - [Architect/Developer at Grão de Ouro Group (3 years and 6 months)](https://github.com/hugomarshall/me/blob/main/project-skills.md#1-architectdeveloper-at-gr%C3%A3o-de-ouro-group)
-- EasyComtec Senior Developer (USA) (11 months)
-- [Iterative Senior Developer (1 year and 1 month)](https://github.com/hugomarshall/me/blob/main/project-skills.md#3-senior-fullstack-developer-at-iterative)
+- Senior Developer at EasyComtec (USA) (11 months)
+- [Senior Developer at Iterative (1 year and 1 month)](https://github.com/hugomarshall/me/blob/main/project-skills.md#3-senior-fullstack-developer-at-iterative)
 
 ### [Cresça Brasil (Uol Educação)](https://github.com/hugomarshall/me/blob/main/project-skills.md#2-senior-web-developer-at-cres%C3%A7a-brasil-owned-by-uol-education)
 

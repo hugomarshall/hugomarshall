@@ -8,7 +8,7 @@ Alfenas, Minas Gerais, Brazil
 
 Develop cohesive, modern, modular, multiplatform web systems and applications using bests practices and principles.
 
-## [Skills](https://github.com/hugomarshall/me/blob/main/project-skills)
+## [Skills](https://github.com/hugomarshall/me/blob/main/project-skills.md)
 
 - **Programming Languages**: C#, JavaScript, jQuery, HTML5, CSS3, Delphi
 - **Frameworks/Libraries**: Blazor, Razor, Angular, AngularJS, Knockout, Bootstrap, Material, WPF

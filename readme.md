@@ -4,9 +4,9 @@ Alfenas, Minas Gerais, Brazil
 +55-35-98875-7779  
 <hugo@tce.dev.br>  
 
-## Objective
+## Objectives
 
-Develop cohesive, modern, modular, multiplatform web systems and applications using bests practices and principles.
+Cohesive, modern, modular and development multiplatform web systems and applications using bests practices and principles.
 
 ## [Skills](https://github.com/hugomarshall/me/blob/main/project-skills.md)
 

@@ -6,7 +6,7 @@ Alfenas, Minas Gerais, Brazil
 
 ## Objectives
 
-Cohesive, modern, modular and development multiplatform web systems and applications using bests practices and principles.
+My objective is to develop applications and cohesive, modern and modular multiplatform web systems by use the best practices and principles.
 
 ## [Skills](https://github.com/hugomarshall/me/blob/main/project-skills.md)
 

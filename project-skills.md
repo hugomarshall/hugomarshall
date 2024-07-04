@@ -12,7 +12,7 @@ Alfenas, Minas Gerais, Brazil
 
 Initially i was hired to develop an e-commerce. After scoped all the requirements i propouse to develop a point of sale with back-office area from scratch because e-commerce is too much for and they have some specific rules that must be developed like bindery production, storage of products and raw materials, bonification, goals, logistics (internal/external).
 
-To challenge up, each area has it own system and must be integrate with the solution.  ♨️♨️♨️
+To challenge up, each area has its own system and must be integrate with the solution.  ♨️♨️♨️
 
 >## Nutrimax
 >
@@ -38,11 +38,11 @@ To challenge up, each area has it own system and must be integrate with the solu
 >
 >### **POS (Point of sale):**
 >
-> Area for comercial sector and representatives collect orders. Based on his/her permissions, its possible to choose price catalogs with filters.
+> Area for comercial sector and representatives to collect orders. Based on his/her permissions, its possible to choose price catalogs with filters.
 >
 >### **Back-office:**
 >
-> Area for CEO, managers, directors, heads and back office team to parametrize, control and management the whole system with hierach policies for manufacturiing, comercial,  packing, logistics
+> Area for CEO, managers, directors, heads and back office team to parametrize, control and management the whole system with hierach policies for manufacturing, comercial,  packing and logistics.
 >
 >**Background process:**
 >
@@ -51,10 +51,10 @@ To challenge up, each area has it own system and must be integrate with the solu
 >
 >**3th Party Integrations:**
 >
->- ERP Agrotis: Directly SQL query (To acomplished this was necessary to make a profiler in database to capture and understand queries);
+>- ERP Agrotis: Directly SQL queries (To acomplished this was necessary to make a profiler in database to capture and understand queries);
 >- ViaCEP: REST API to search for address in Brazil;
 >- Sendgrid: E-mail and SMS sender;
->- Wiki.js: System documentation;
+>- Wiki.js: System for documentation;
 >
 >
 This first solution tooks 6 months to go live and more 6 months to finished all ajustments with new features.
@@ -63,10 +63,10 @@ This first solution tooks 6 months to go live and more 6 months to finished all 
 >
 >Upon completing the Nutrimax project, the group decided to create a new project to centralize how data is collected and cross-share for different sectors between the whole group. And themmm surges S2GO (System Group Grão de Ouro)...
 >
-><center><img src="S2GO-Architecture.drawio.png" width="300" /></center>
+><div align="center"><img src="S2GO-Architecture.drawio.png" width="300" /></div>
 >
 >The pourpose of S2GO is to provide an environment for colaborators to automate daily work process and centralize data information to process and treat to be used by each company/sectors with their own rules.
->I can´t show detailed diagrams due to contract rules but in the image bellow you can see a solution macro view.
+>I can´t show detailed diagrams due to NDA but in the image bellow you can see a solution macro view.
 >
 ><div align="center"><img src="S2GO-Projetos.drawio.png" alt="API Gateway" width="300" /></div>
 >

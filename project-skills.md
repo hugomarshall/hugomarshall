@@ -96,7 +96,7 @@ This first solution tooks 6 months to go live and more 6 months to finished all 
 >
 >**- Gateway:**
 >
->I´ve used Ocelot to implement a basic API Gateway. The image bellow show how the gateways works just treat service as company API.
+>I´ve used Ocelot to implement a basic API Gateway. The image bellow show how the gateways works.
 >
 ><div align="center"><img src="S2GO-API - Gateway.drawio.png" alt="API Gateway" width="300" /></div>
 >

@@ -103,7 +103,7 @@ This first solution tooks 6 months to go live and more 6 months to finished all 
 >
 >**- Identity:**
 >
->Cross-shared API between each company to management user, permissions, rules and policies.
+>Cross-shared API between each company to user, permissions, rules and policies management.
 >
 >OpenID Pattern using Microsoft Identity Framework with Bearer Token authentication and integration with Active Directory.
 >
@@ -112,7 +112,7 @@ This first solution tooks 6 months to go live and more 6 months to finished all 
 >
 >**- Clientes (Customers):**
 >
->Cross-shared API between each company to management customers.
+>Cross-shared API between each company to customers management.
 >
 >**- Nutrimax:**
 >
@@ -120,16 +120,16 @@ This first solution tooks 6 months to go live and more 6 months to finished all 
 >
 >**- "Companies":**
 >
->Each company was it own API to deal with specific proccess and rules.
+>I´ve summarized all API companies because of NDA.
 >
 >### **Hangfire Proccess Management:**
 >
->All background process was migrated to hangfire escalate, monitoring and run independently.
+>All background processes were migrated to hangfire because it can be escalated, monitored and run independently.
 >
 >### **Mobile App:**
 >
->I´ve develop a mobile app to customer sign digital contracts and check their products stored in warehouse.
->To develop i used Xamarin Platform with MVVM pattern, DryIoc for IoC and Refit to do REST request.
+>I´ve developed a mobile app so customers can sign digital contracts and check their products stored in the warehouse.
+>To develop i´ve used Xamarin Platform with MVVM pattern, DryIoc for IoC and Refit to deal with REST request.
 >
 ><div align="center"><img src="S2GO-Mobile.drawio.png" alt="Login UML" width="300" /></div>
 >

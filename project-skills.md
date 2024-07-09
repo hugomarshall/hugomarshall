@@ -82,7 +82,7 @@ This first solution tooks 6 months to go live and more 6 months to finished all 
 >
 >Here the commercial team can shared custom temporary links to a form for customers to update and validate they profiles or register an account.
 >
->To enable this proccess, the commercial team contact each customer to get they principal e-mail and mobile number to send the links.
+>To enable this proccess, the commercial team contact each customer to get they principal e-mail and mobile number to send the link.
 >
 >
 >### **Back-office:**

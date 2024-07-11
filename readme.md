@@ -10,8 +10,8 @@ My objective is to develop applications and cohesive, modern and modular multipl
 
 ## [Skills](https://github.com/hugomarshall/me/blob/main/project-skills.md)
 
-- **Programming Languages**: C#, JavaScript, jQuery, HTML5, CSS3, Delphi
-- **Frameworks/Libraries**: Blazor, Razor, Angular, AngularJS, Knockout, Bootstrap, Material, WPF
+- **Programming Languages**: C#, JavaScript, HTML5, CSS3, Delphi
+- **Frameworks/Libraries**: Blazor, Razor, Angular, AngularJS, jQuery, Knockout, Bootstrap, Material, WPF
 - **Mobile**: Xamarin, MAUI
 - **ORM**: Entity Framework (MSSQL, Postgree, InMemory), Dapper
 - **Databases**: SQL Server, Oracle, SQLite, MongoDb

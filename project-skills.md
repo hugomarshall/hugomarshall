@@ -195,9 +195,6 @@ Iterative is a Software Factory in Sao Paulo and it was one of the first compani
 >**- Database:** SQL Server with entity framework, sql queries and stored procedures.
 >
 >
->**- 3th Party Integrations:**
->
->- Azure: Storage, Service Bus;
 >
 >## Sync
 >
@@ -216,7 +213,23 @@ Iterative is a Software Factory in Sao Paulo and it was one of the first compani
 >**- Database:** SQLite with entity framework.
 >
 >
->**3th Party Integrations:**
+>## Installer:
+>
+>This installer was made to install and update the systems on the client because the system could be run disconnected from internet. 
+>Customer access the portal to configure the platform and can choose for offline install or online them it generate this exe file.
+>If choose offline, the installer get all information and save inside a sqlite database.
+>
+>Some functionalities in installer:
+>- Check administrator privilegdes;
+>- Check system files integrity by hash;
+>- Check if system is running and if can be stopped;
+>- Clear or configuring queues;
+>- Update dll files;
+>- Check sync connection and statys (online version);
+>- Run application and open website;
+>
+>
+>## 3th Party Integrations:
 >
 >- Azure: Storage, Service Bus;
 >- Payment Gateways: Stone, MundiPagg;

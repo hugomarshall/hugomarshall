@@ -4,6 +4,11 @@ Alfenas, Minas Gerais, Brazil
 +55-35-98875-7779  
 <hugo@tce.dev.br>  
 
+## Social
+- [Stackoverflow](https://stackoverflow.com/users/2069573/m%c3%a5rsh%c3%a5ll)
+- [X](https://x.com/HugoMarshall)
+- [LinkedIn](https://www.linkedin.com/in/hugoterra/)
+
 ## Objectives
 
 My objective is to develop applications and cohesive, modern and modular multiplatform web systems by use the best practices and principles.

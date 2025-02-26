@@ -6,7 +6,6 @@ Alfenas, Minas Gerais, Brazil
 
 ## Social
 - [Stack overflow](https://stackoverflow.com/users/2069573/m%c3%a5rsh%c3%a5ll)
-- [X](https://x.com/HugoMarshall)
 - [LinkedIn](https://www.linkedin.com/in/hugoterra/)
 
 ## Objectives
